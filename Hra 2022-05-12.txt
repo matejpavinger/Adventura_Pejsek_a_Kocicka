@@ -1,0 +1,43 @@
+jdi chodba
+Jsi v prostoru: chodba tvého domečku.
+východy: zahrada pokojíček sklep kuchyň
+Předměty v prostoru: pískací_hračka
+
+prozkoumej stoleček
+tento předmět, tady není...
+
+seber predmetII
+tento předmět tady není
+
+nápověda
+Tvým úkolem je upéct dort pro pejska a kočičku a donést jim ho.
+Nejprve musíš posbírat všechyn ingredience
+Můžeš zadat tyto příkazy:
+prozkoumej nápověda upeč odlož jdi seber konec 
+
+seber predmetIII
+Předmět se ti přidal do inventáře.
+
+Jsi v prostoru: test.
+východy:
+Předměty v prostoru:0
+
+prozkoumej predmetIII
+tento předmět, tady není...
+
+prozkoumej predmetIV
+věc nelze prozkoumat
+
+odlož predmetIII
+Odložil jsi předmět predmetIII
+
+Jsi v prostoru: test.
+východy:
+Předměty v prostoru: predmetIV predmetIII
+
+upeč dort
+upekl jsi dort
+
+konec
+hra ukončena příkazem konec
+

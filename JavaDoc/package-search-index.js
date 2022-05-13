@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"logika"},{"l":"logika.prikaz"},{"l":"main"},{"l":"uiText"}];updateSearchResults();
